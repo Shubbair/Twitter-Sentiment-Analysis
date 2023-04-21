@@ -4,11 +4,12 @@
 
 using Machine Learnig Models :- 
 
-* Decsition Tree Accuracy => 99.6 %
+|          Model            |  Accuracy |
+:--------------------------:|:----------:
+| Decsition Tree            |   99.6%   |
+| Random Forest Classifier  |  ~99.8%   |
+| XGBoost       	          |   99.5%   |
 
-* Random Forest => ~ 99.8 %
-
-* XGBoost => 99.5 %
 
 Finding if a person is depressed from their use of words on social media.
 
