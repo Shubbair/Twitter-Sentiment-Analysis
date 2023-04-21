@@ -4,9 +4,9 @@
 
 using Machine Learnig Models :- 
 
-* Decsition Tree Accuracy => 99.5 %
+* Decsition Tree Accuracy => 99.6 %
 
-* Random Forest => 99.4 %
+* Random Forest => ~ 99.8 %
 
 * XGBoost => 99.5 %
 
